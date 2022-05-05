@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sarthak-synclovis
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on Mobile Application Development
+- 📫 reach me at sarthak.mishra@synclovis.com
